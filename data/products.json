@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Shorts MMA",
+    "description": "Shorts de alta calidad para entrenamiento de MMA.",
+    "price": 29.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "abc123",
+    "stock": 25,
+    "category": "Ropa MMA"
+  },
+  {
+    "id": 2,
+    "title": "Guantes de Combate MMA",
+    "description": "Guantes de combate diseñados para MMA.",
+    "price": 49.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "def456",
+    "stock": 15,
+    "category": "Equipo de Protección"
+  },
+  {
+    "id": 3,
+    "title": "Camiseta MMA",
+    "description": "Camiseta cómoda y transpirable para entrenamiento de MMA.",
+    "price": 19.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "ghi789",
+    "stock": 30,
+    "category": "Ropa MMA"
+  },
+  {
+    "id": 4,
+    "title": "Protector Bucal MMA",
+    "description": "Protector bucal para una protección óptima durante el combate.",
+    "price": 9.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "jkl012",
+    "stock": 40,
+    "category": "Equipo de Protección"
+  },
+  {
+    "id": 5,
+    "title": "Pantalones MMA",
+    "description": "Pantalones de alta calidad diseñados para MMA.",
+    "price": 34.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "mno345",
+    "stock": 20,
+    "category": "Ropa MMA"
+  },
+  {
+    "id": 6,
+    "title": "Cinturón de Grado MMA",
+    "description": "Cinturón para mostrar tu grado en MMA.",
+    "price": 14.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "pqr678",
+    "stock": 10,
+    "category": "Accesorios MMA"
+  },
+  {
+    "id": 7,
+    "title": "Saco de Boxeo MMA",
+    "description": "Saco de boxeo resistente para entrenamiento de MMA.",
+    "price": 69.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "stu901",
+    "stock": 5,
+    "category": "Equipo de Entrenamiento"
+  },
+  {
+    "id": 8,
+    "title": "Vendas MMA",
+    "description": "Vendas elásticas para proteger tus manos durante el combate.",
+    "price": 7.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "vwx234",
+    "stock": 50,
+    "category": "Equipo de Protección"
+  },
+  {
+    "id": 9,
+    "title": "Gorro MMA",
+    "description": "Gorro de estilo MMA para uso diario.",
+    "price": 12.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "yz0123",
+    "stock": 15,
+    "category": "Accesorios MMA"
+  },
+  {
+    "id": 10,
+    "title": "Mochila MMA",
+    "description": "Mochila resistente para llevar tu equipo de MMA.",
+    "price": 39.99,
+    "thumbnail": [],
+    "status": true,
+    "code": "789abc",
+    "stock": 8,
+    "category": "Accesorios MMA"
+  }
+]
